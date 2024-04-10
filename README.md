@@ -1,8 +1,16 @@
 # Self Directed Study + Career Exploration
 
-Project Site: https://domenicostuff.github.io/sciprojSDS/
+# Project Site: https://domenicostuff.github.io/sciprojSDS/
 
-Reference List
+
+
+
+
+
+
+
+
+*Reference List*
 
 History of medicine: Dr. Roentgen’s accidental X-rays. History of Medicine: X-ray Imaging | Columbia Surgery. (n.d.). https://columbiasurgery.org/news/2015/09/17/history-medicine-dr-roentgen-s-accidental-x-rays 
 
