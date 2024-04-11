@@ -18,6 +18,8 @@ History of radiography. Nondestructive Evaluation Techniques : Radiography. (n
 
 Hutchison, C. (n.d.). What is the average cost of an X-ray machine? [updated 2023]. MavenImaging. https://www.mavenimaging.com/blog/average-x-ray-machine-cost 
 
+Types of X-ray machines and medical uses. Best Diagnostics Center in Hyderabad. (n.d.). https://www.sprintdiagnostics.in/blog/different-types-x-ray-machines-uses-medical-imaging 
+
 U.S. Department of Health and Human Services. (2022, June). X-rays. National Institute of Biomedical Imaging and Bioengineering. https://www.nibib.nih.gov/science-education/science-topics/x-rays 
 
 Risks of radiation. UCSF Radiology. (2016, July 27). https://radiology.ucsf.edu/patient-care/patient-safety/radiation-safety/risks-of-radiation 
