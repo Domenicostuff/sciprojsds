@@ -9,6 +9,9 @@ td {
 h1 {
     font-size: 60px;
 }
+li {
+    font-size: 23px;
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
