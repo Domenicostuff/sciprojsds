@@ -23,5 +23,7 @@ What are the risks from medical X-rays and other low dose radiation?. HLS Radiot
 # Careers List
 
 Radiation Therapist: https://www.jobbank.gc.ca/marketreport/summary-occupation/18262/ca
+
 Medical Radiation Technologist (MRT): https://www.jobbank.gc.ca/marketreport/summary-occupation/18254/ca
+
 Radiologist: https://www.jobbank.gc.ca/marketreport/wages-occupation/4047/ca
